@@ -1,0 +1,35 @@
+[
+  {
+    "id": "L1",
+    "business_ref": "C1",
+    "date": "2026-10-09",
+    "kind": "paid",
+    "amount": 16000,
+    "text": "青芽试点，标为示范用途，同青芒运营主体。"
+  },
+  {
+    "id": "L2",
+    "business_ref": "C2",
+    "date": "2026-10-13",
+    "kind": "commitment",
+    "amount": 28000,
+    "text": "汉桥研发设备待付，约定从研发保留款先列支。"
+  },
+  {
+    "id": "L3",
+    "business_ref": "C3",
+    "date": "2026-10-16",
+    "kind": "paid",
+    "amount": 10000,
+    "text": "蓝桥试点预约款一万，其中含服务费四千，原登记示范方向。"
+  },
+  {
+    "id": "L4",
+    "business_ref": "C3",
+    "date": "2026-10-20",
+    "kind": "refund",
+    "amount": 4000,
+    "reverses": "L3",
+    "text": "退回蓝桥回访服务对应的金额。合同第六款认定该项代维。"
+  }
+]
